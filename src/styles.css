@@ -33,14 +33,24 @@ li {
 }
 h1 {
     font-size: 90px;
+    margin: 0;
+}
+p {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
 }
 .hero-text {
     margin-left: 80px;
 }
 .button {
     width: 200px;
-    height: 60px;
+    height: 55px;
     border-radius: 30px;
     background-color: coral;
     text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 5px;
+    margin-top: 20px;
 }
