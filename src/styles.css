@@ -13,3 +13,9 @@ footer {
     height: 500px;
     background-color: black;
 }
+nav {
+    display: flex;
+}
+ul {
+    display: flex;
+}
