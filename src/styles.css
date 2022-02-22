@@ -15,7 +15,15 @@ footer {
 }
 nav {
     display: flex;
+    justify-content: space-between;
 }
 ul {
     display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+}
+li {
+    /* width: 200px; */
+    text-decoration: none;
 }
