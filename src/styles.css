@@ -25,6 +25,11 @@ ul {
     font-size: 30px;
 }
 li {
-    /* width: 200px; */
     text-decoration: none;
+}
+h1 {
+    font-size: 90px;
+}
+.hero-text {
+    margin-left: 40px;
 }
