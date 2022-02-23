@@ -40,6 +40,11 @@ p {
     font-size: 30px;
     font-weight: 300;
 }
+.hero-area {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
 .hero-text {
     margin-left: 80px;
 }
