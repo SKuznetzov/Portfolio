@@ -95,11 +95,14 @@ p {
     align-items: center;
 }
 .project-card {
-    width: 200px;
+    width: 300px;
     height: 500px;
     border: 1px solid black;
 }
-
+.project-container {
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
