@@ -35,6 +35,9 @@ h1 {
     font-size: 90px;
     margin: 0;
 }
+h2 {
+    font-size: 70px;
+}
 p {
     margin: 0;
     font-size: 30px;
@@ -84,6 +87,7 @@ p {
     justify-content: space-around;
     padding: 80px;
 }
+
 
 
 
