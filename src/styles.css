@@ -118,5 +118,9 @@ p {
     width: 250px;
     border-radius: 125px;
 }
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 
