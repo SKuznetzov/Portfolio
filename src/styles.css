@@ -94,7 +94,11 @@ p {
     display: flex;
     align-items: center;
 }
-
+.project-card {
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+}
 
 
 
