@@ -108,7 +108,10 @@ p {
     display: flex;
     justify-content: space-around;
 }
-
+.subtext {
+    font-size: 15px;
+    font-weight: 300;
+}
 
 
 
