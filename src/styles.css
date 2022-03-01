@@ -4,7 +4,6 @@ body {
 
 section {
     background-color: white;
-    border: 1px solid black;
 }
 .hero {
     background-color: #1c1d25;
@@ -103,7 +102,7 @@ p {
 .project-card {
     width: 300px;
     height: 500px;
-    border: 1px solid black;
+    box-shadow: 5px 5px 20px gray;
 }
 .project-container {
     display: flex;
