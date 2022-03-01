@@ -90,6 +90,10 @@ p {
     width: 300px;
     border-radius:150px;
 }
+.headshot-container {
+    display: flex;
+    align-items: center;
+}
 
 
 
