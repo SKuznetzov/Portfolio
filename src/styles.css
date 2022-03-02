@@ -126,4 +126,7 @@ hr {
     text-decoration: none;
     color: #ef744b;
 }
-
+a {
+    text-decoration: none;
+    color: white;
+}
