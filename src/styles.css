@@ -139,6 +139,9 @@ a {
     text-decoration: none;
     color: white;
 }
+.hamburger {
+    display: none;
+}
 @media only screen and (max-width: 1000px){
     .hamburger {
         border: 0;
