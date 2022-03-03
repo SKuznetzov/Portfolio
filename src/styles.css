@@ -28,9 +28,6 @@ ul {
     justify-content: space-around;
     font-size: 30px;
 }
-ul.show {
-    display: block;
-}
 li {
     text-decoration: none;
 }
@@ -145,6 +142,9 @@ a {
 .hamburger {
     display: none;
 }
+.hamburger:focus {
+    outline: 0;
+}
 @media only screen and (max-width: 1000px){
     .hamburger {
         display: block;
@@ -152,8 +152,23 @@ a {
         background-color: transparent;
         color: white;
         font-size: 30px;
+        margin: 20px;
+        align-self: flex-end;
     }
     ul {
+        display: none;
+        background-color: #62657a;
+        margin: 0;
+    }
+    ul.show {
+        display: block;
+    }
+    nav {
+        display: flex;
+        flex-direction: column-reverse;
+        background-color: #62657a;
+    }
+    .logo {
         display: none;
     }
 }
