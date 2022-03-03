@@ -139,3 +139,19 @@ a {
     text-decoration: none;
     color: white;
 }
+@media only screen and (max-width: 1000px){
+    .hamburger {
+        border: 0;
+        background-color: transparent;
+        color: white;
+        font-size: 30px;
+    }
+}
+
+
+
+
+
+
+
+
